@@ -1,4 +1,5 @@
 Flask==2.0.1
+mysql-connector-python
 mysql-connector~=2.2.9
 Flask-Session==0.4.0
 flask-talisman~=0.7.0
